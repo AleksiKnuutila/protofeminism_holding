@@ -14,7 +14,7 @@ export default function Home() {
       <div className="text-center space-y-8">
         {/* Logo/Image placeholder */}
         <div className="flex justify-center mb-8">
-          <img src="/protofemmes-logo.png" alt="PROTOfemmes Logo" className="w-192 h-60 object-contain" />
+          <img src="protofemmes-logo.png" alt="PROTOfemmes Logo" className="w-192 h-60 object-contain" />
         </div>
 
         {/* Main heading */}

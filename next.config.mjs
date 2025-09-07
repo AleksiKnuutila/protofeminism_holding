@@ -11,7 +11,7 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
-  basePath: '/protofeminism_holding',
+  // basePath: '/protofeminism_holding', // Remove for custom domain
 }
 
 export default nextConfig
